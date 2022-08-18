@@ -1,1 +1,31 @@
+h2 {
+  color: black;
+  font-family: Arial,Helvetica, sans-serif;
+}
+
+.header {
+  
+  color: black;
+  border: 11px solid black;
+  padding-left:10px;
+  padding-top:10px
+}
+
+h1 {
+  font-family:Arial,Helvetica, sans-serif;
+}
+.undername {
+   
+  color: brown;
+    
+}
+
+.aout {
+  
+}
+
+img.resize {
+  width:50%
+    height: auto;
+  object-fit: cover;
 
